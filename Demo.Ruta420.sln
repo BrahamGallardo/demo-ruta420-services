@@ -1,15 +1,15 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Ruta420.Infrastructure", "Demo.Ruta420.Infrastructure\Demo.Ruta420.Infrastructure.csproj", "{45FE6CA9-DDAC-4CEF-A0B1-A09A324765FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Ruta420.Infrastructure", "Demo.Ruta420.Infrastructure\Demo.Ruta420.Infrastructure.csproj", "{45FE6CA9-DDAC-4CEF-A0B1-A09A324765FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Ruta420.Domain", "Demo.Ruta420.Domain\Demo.Ruta420.Domain.csproj", "{4E7E7F53-5983-41D0-8E6C-8D52853E4BC1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Ruta420.Domain", "Demo.Ruta420.Domain\Demo.Ruta420.Domain.csproj", "{4E7E7F53-5983-41D0-8E6C-8D52853E4BC1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Ruta420.Application", "Demo.Ruta420.Application\Demo.Ruta420.Application.csproj", "{D77ACD94-8EBC-4E44-8878-06567F6798ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Ruta420.Application", "Demo.Ruta420.Application\Demo.Ruta420.Application.csproj", "{D77ACD94-8EBC-4E44-8878-06567F6798ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.Ruta420.API", "Demo.Ruta420.API\Demo.Ruta420.API.csproj", "{6E5A7FEB-C681-4E0C-BD59-5E77C8579E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo.Ruta420.API", "Demo.Ruta420.API\Demo.Ruta420.API.csproj", "{6E5A7FEB-C681-4E0C-BD59-5E77C8579E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
